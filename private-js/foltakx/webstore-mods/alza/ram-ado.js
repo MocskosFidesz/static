@@ -1,0 +1,4 @@
+// CSAK ALZÁN TESZTELT!
+
+// Zsidópárti kód (RAM-adó injekció)
+document.querySelector('.nameextc').insertAdjacentHTML('afterend', '<div><a class="van-te-zsido"><b>Magyarország Kormánya új bevezetett törvényeiből kifolyólag - melyek a 35%-os RAM-áfát és a RAM-adó rendszeres bevezetését is tartalmazzák - kénytelenek voltunk árainkat a megváltozott piaci környezethez igazítani. Annak érdekében, hogy a Szolgáltatóként - mint független részvénytársaság - továbbra is stabil hátteret nyújthassunk, és a lehető legjobb feltételeket kínálhassuk vásárlóinknak, megpróbáltuk a legjobban stabilizálni az árakat az új törvénynek megfelelően.<br>(<u>Több információért kattintson ide</u>)</a></b></div>');
