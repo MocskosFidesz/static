@@ -1,4 +1,6 @@
 // CSAK AQUÁN TESZTELT!
 
-// Antizsidó kód (RAM-adó injekció)
-document.querySelector('.shipping-carousel.keszleten').insertAdjacentHTML('beforeend', '<div><a class="nincs-te-zsido"><b>Magyarország Kormánya új bevezetett törvényeiből kifolyólag - melyek a 35%-os RAM-áfát és a RAM-adó rendszeres bevezetését is tartalmazzák - kénytelenek voltunk árainkat a megváltozott piaci környezethez igazítani. Annak érdekében, hogy a Szolgáltatóként - mint független részvénytársaság - továbbra is stabil hátteret nyújthassunk, és a lehető legjobb feltételeket kínálhassuk vásárlóinknak, megpróbáltuk a legjobban stabilizálni az árakat az új törvénynek megfelelően.<br>(<u>Több információért kattintson ide</u>)</a></b></div>');
+// Antizsidó kód (RAM-adó injekció, URL-ről lekérve)
+fetch('https://static.fityesz.hu/private-js/foltakx/webstore-mods/ram-ado.html')
+.then(response => response.text())
+.then(data => {document.querySelector('.shipping-carousel.keszleten').insertAdjacentHTML('beforeend',data);});
