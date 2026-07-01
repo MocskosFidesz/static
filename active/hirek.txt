@@ -1,0 +1,20 @@
+TYPE: youtube
+DATE: 2026-06-30 13:00
+TITLE: Magyar Péter: "Ön egy hazug, embertelen tróger!"
+TEXT: Magyar Péter jogosan letrógerezte Panyi Miklós trógerúrt, aki hazugságokkal próbálta vádolni a TISZA Pártot.
+URL: https://www.youtube.com/watch?v=CSdR8u4GuQc
+NEW: true
+---
+TYPE: youtube
+DATE: 2026-06-29 15:00
+TITLE: Forsthoffer Ágnes elvette a szót Magyar Pétertől
+TEXT: Ritka eset a Parlamentben, hogy a házelnök elvette a miniszterelnöktől a szót. Kövér László elvtárs idején ilyen soha nem volt.
+URL: https://www.youtube.com/watch?v=06wWN4vKy7o
+NEW: true
+---
+TYPE: facebook
+DATE: 2026-07-01 00:30
+TITLE: Panyi Miklós vergődik, Magyar Péter helyrerakta
+TEXT: (Kampányvideó)
+URL: https://www.facebook.com/reel/1052028314020142
+NEW: true
