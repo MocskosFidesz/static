@@ -18,3 +18,10 @@ TITLE: Panyi Miklós vergődik, Magyar Péter helyrerakta
 TEXT: (Kampányvideó)
 URL: https://www.facebook.com/reel/1052028314020142
 NEW: true
+---
+TYPE: facebook
+DATE: 2026-07-20 00:00
+TITLE: Sulyok Tamás köztársasági elnöki bizatása megszűnt.
+TEXT: A TISZA-kormány az igazságos alkotmánymódosítással sikeresen lemondatta Sulyok Tamást.
+URL: https://www.facebook.com/photo?fbid=122122636005357956
+NEW: true
